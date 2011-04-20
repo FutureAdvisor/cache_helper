@@ -1,0 +1,7 @@
+= CacheHelper
+
+Overrides ActiveRecord::Base#cache_key to return unique keys for new records
+and adds methods to more easily work with Rails caching.
+
+Author::  Clyde Law (mailto:clyde@futureadvisor.com)
+License:: Released under the MIT license
