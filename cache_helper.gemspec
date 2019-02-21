@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name        = "cache_helper"
   s.version     = CacheHelper::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Clyde Law"]
-  s.email       = ["clyde@futureadvisor.com"]
+  s.authors     = ["FutureAdvisor"]
+  s.email       = ["core.platform@futureadvisor.com"]
   s.homepage    = %q{http://github.com/FutureAdvisor/cache_helper}
   s.summary     = %q{Adds methods to more easily work with Rails caching.}
   s.description = %q{Overrides ActiveRecord::Base#cache_key to return unique keys for new records and adds methods to more easily work with Rails caching.}
